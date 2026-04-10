@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import { FlexmonsterComposite } from '@flexmonster/vue'
+import { FMFlexmonster } from '@flexmonster/vue'
 
 const pivotRef = ref(null)
 
@@ -30,7 +30,7 @@ const state = {
 <template>
   <div class="pivot-wrapper">
     <div class="pivot-container">
-      <FlexmonsterComposite
+      <FMFlexmonster
         ref="pivotRef"
         :state="state"
         width="100%"

@@ -12,7 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@flexmonster/vue": "^1.0.0",
+    "@flexmonster/vue": "latest",
     "vue": "^3.5.30"
   },
   "devDependencies": {
