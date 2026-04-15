@@ -1,5 +1,6 @@
 {
   "name": "vue-sample",
+  "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
