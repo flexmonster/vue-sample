@@ -1,7 +1,12 @@
 <script setup>
-import Flexmonster from './components/Flexmonster.vue'
+import Header from "./components/Header.vue";
 </script>
 
 <template>
-  <Flexmonster />
+  <Header />
+  <div class="wrap">
+    <div class="demo-container">
+      <RouterView />
+    </div>
+  </div>
 </template>
