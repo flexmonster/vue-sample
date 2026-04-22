@@ -60,7 +60,7 @@ npm install
 3. Run the sample project:
 
 ```bash
-npm run dev
+npm start
 ```
 
 The project will be automatically opened in your browser.
