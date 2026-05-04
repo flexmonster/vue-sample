@@ -16,24 +16,24 @@ const state = {
   slice: {
     rows: [
       {
-        name: "Year",
+        fieldName: "Year",
       },
       {
-        name: "Gender",
+        fieldName: "Gender",
       },
       {
-        name: "Name",
+        fieldName: "Name",
       },
     ],
     values: [
       {
-        name: "Count",
+        fieldName: "Count",
         aggregation: "sum",
       },
     ],
     columns: [
       {
-        name: "State",
+        fieldName: "State",
       },
     ],
   },
