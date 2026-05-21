@@ -1,5 +1,6 @@
 # Vue pivot table | Flexmonster 3.0 (preview) sample project with Vue
 
+[![Flexmonster Pivot](https://cdn.flexmonster.com/readmes/vue_30.webp)](https://prerelease.flexmonster.com/?r=sample_30_vue)
 Website: [prerelease.flexmonster.com](https://prerelease.flexmonster.com/?r=sample_30_vue)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://x.com/Flexmonster)
